@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+}
+body{
+    background-color: antiquewhite;
+}
+.box{
+    background-color: brown;
+    height: 90px;
+    width: 90px;
+    margin-left: 500px;
+}
+img{
+    width: 100px;
+    border-radius: 200px;
+}
